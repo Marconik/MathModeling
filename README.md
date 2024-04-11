@@ -4,7 +4,7 @@
 
 本次作业是为了解决如下问题：
 
-<img src="C:\Users\mamin\Documents\Tencent Files\634020960\FileRecv\数学建模\HW02\README.assets\image-20240411221336953.png" alt="image-20240411221336953" style="zoom: 50%;" />
+![Problem](image-20240411221336953.png)
 
 
 
